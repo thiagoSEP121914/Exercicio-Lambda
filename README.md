@@ -9,4 +9,3 @@ Fazer um programa para ler os dados(nome,emailesalário)
  fornecido pelo usuário.
  Mostrar também a soma dos saláriosdos funcionários cujo
  nome começa com a letra'M'.
- Veja exemplo na próxima página
